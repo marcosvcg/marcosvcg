@@ -4,13 +4,14 @@
 # Olá, um bom dia! 👋
 
 ## Desenvolvedor Flutter 📱
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
 ```dart
    void main() {
   runApp(const MyREADME());
 }
 ```
 
-[Meu perfil do Linkedin](https://github.com/user/repository/fork](https://www.linkedin.com/in/marcos-galvão-121117250/)) 🤳
+ <a href="https://www.linkedin.com/in/marcos-galvão-121117250/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <details>
    
