@@ -1,9 +1,9 @@
-![Banner do Perfil](https://pixel-art-gallery.tumblr.com/image/146052666054)
+![Banner do Perfil](https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv)
 Artista do Banner: https://www.deviantart.com/bbrunomoraes
 
 # Olá, um bom dia! 👋
 
-## Desenvolvedor Flutter ![Flutter Logo](https://logowik.com/content/uploads/images/flutter5786.jpg)
+## Desenvolvedor Flutter ![Flutter Logo](https://cdn.iconscout.com/icon/free/png-512/free-flutter-2038877-1720090.png?f=avif&w=256)
 
 [Linkedin](https://github.com/user/repository/fork](https://www.linkedin.com/in/marcos-galvão-121117250/))
 
