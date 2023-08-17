@@ -4,14 +4,18 @@
 # Olá, um bom dia! 👋
 
 ## Desenvolvedor Flutter 📱
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white);
+<p align="center">
+  <a href="mailto:marcos.vdcg@gmail.com?subject=Olá%Marcos%"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>;
+ <a href="https://www.linkedin.com/in/marcos-galvão-121117250/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>;
+</p>
+
 ```dart
    void main() {
   runApp(const MyREADME());
 }
 ```
 
- <a href="https://www.linkedin.com/in/marcos-galvão-121117250/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <details>
    
@@ -22,5 +26,5 @@
 + 📚 Cursando Engenharia de Software na UCSal
 + 💻 Paixão em resolver problemas e "codar"
 + ❤ Amante de novidades na área de tecnologia
-+ 
+
 </details>
