@@ -3,18 +3,18 @@
 
 # Olá, um bom dia! 👋
 
-## Desenvolvedor Flutter 📱
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white);
-<p align="center">
-  <a href="mailto:marcos.vdcg@gmail.com?subject=Olá%Marcos%"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>;
- <a href="https://www.linkedin.com/in/marcos-galvão-121117250/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>;
-</p>
-
+### Desenvolvedor Flutter 📱
 ```dart
    void main() {
   runApp(const MyREADME());
 }
 ```
+
+<p align="center">
+  <a href="mailto:marcos.vdcg@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>;
+ <a href="https://www.linkedin.com/in/marcos-galvão-121117250/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>;
+</p>
+
 
 
 <details>
