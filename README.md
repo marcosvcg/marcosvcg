@@ -5,9 +5,7 @@
 
 ### Desenvolvedor Flutter 📱
 ```dart
-   void main() {
-  runApp(const MyREADME());
-}
+   void main() => runApp(const MyREADME());
 ```
 
 <p align="center">
