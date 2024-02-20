@@ -3,9 +3,20 @@
 
 # Olá, um bom dia! 👋
 
-### Desenvolvedor Flutter 📱
-```dart
-   void main() => runApp(const MyREADME());
+### Desenvolvedor Backend (Java)
+```java
+@SpringBootApplication
+@RestController
+public class Application {
+
+public static void main(String[] args) {
+    SpringApplication.run(Application.class, args);
+}
+
+@GetMapping("/")
+public String getHelloWorld() {
+    return "Hello World!";
+}
 ```
 
 <p align="center">
@@ -20,6 +31,7 @@
 <summary>Meu Resumo</summary>
 
 ### Prazer, eu me chamo Marcos!
++ 🍃 Estudando Spring Boot e seu ecossistema
 + 💪 Sempre me desafiando 
 + 📚 Cursando Engenharia de Software na UCSal
 + 💻 Paixão em resolver problemas e "codar"
